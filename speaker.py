@@ -13,6 +13,7 @@ speak()
 
 
 print("Welcome to your personal speaker")
+print("type # to exit")
 
 while True:
         a = input("type your thoughts here")
