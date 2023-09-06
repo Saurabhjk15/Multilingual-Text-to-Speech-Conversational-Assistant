@@ -6,5 +6,5 @@ The Multilingual Text-to-Speech Conversational Assistant is like having a friend
 
 What It Does:
 •	Easy to Use: You just type what you want to say, and it speaks it out loud. If you want it to stop, just type "#" like ending a conversation.
-Personal speaker: Think of it as your personal speaker that can talk to you whenever you want.
-
+* Personal speaker: Think of it as your personal speaker that can talk to you whenever you want.
+ 
